@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="card">
       <div className="card-img">
-        <figure>
+        <picture>
           <img src={QRImage} alt="" />
-        </figure>
+        </picture>
       </div>
       <div className="card-body">
         <h1> Improve your front-end skills by building projects</h1>
